@@ -35,9 +35,9 @@
         </div>
         
         <div>
-          <button @click="nextStep" class="bg-pink-700 text-white px-12 py-5 rounded-full text-xl font-bold hover:shadow-[0_20px_40px_-10px_rgba(216,27,96,0.5)] transition-all duration-300 w-full md:w-auto hover:-translate-y-1">
+          <a href="https://docs.google.com/forms/d/1dh8EXanFdyuas8tiOhDYuS43GMndSkfAunDyoZlBHIc/edit?ts=699dae6e" target="_blank" rel="noopener noreferrer" class="inline-block bg-pink-700 text-white px-12 py-5 rounded-full text-xl font-bold hover:shadow-[0_20px_40px_-10px_rgba(216,27,96,0.5)] transition-all duration-300 w-full md:w-auto hover:-translate-y-1">
             Start Application
-          </button>
+          </a>
         </div>
       </div>
 
