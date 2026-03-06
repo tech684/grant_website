@@ -22,7 +22,7 @@
         <!-- Feature 2 -->
         <div class="glass-card p-10 rounded-[2rem] flex flex-col items-start bg-brand-sand/30 hover:bg-white group">
           <div class="w-16 h-16 bg-white rounded-2xl flex items-center justify-center mb-8 text-brand-plum shadow-sm border border-brand-plum/5 group-hover:scale-110 group-hover:-rotate-3 transition-transform duration-500">
-            <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z"></path></svg>
+            <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
           </div>
           <h3 class="text-2xl font-bold mb-4 text-brand-black group-hover:text-brand-plum transition-colors">Business Pitch</h3>
           <p class="text-gray-500 leading-relaxed font-light">Participants submit a comprehensive pitch outlining their exact growth plans and vision.</p>

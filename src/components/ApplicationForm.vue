@@ -28,10 +28,10 @@
         <h2 class="text-4xl md:text-6xl font-black text-brand-black mb-6 leading-tight">Welcome to the <br/><span class="text-pink-700">Grant Application</span></h2>
         <p class="text-xl text-gray-500 mb-10 max-w-2xl mx-auto leading-relaxed font-light">
           We’re proud to support ambitious female entrepreneurs across Nigeria. 
-          This grant includes <strong class="text-brand-plum font-bold">₦2,000,000</strong> funding, up to <strong class="text-brand-plum font-bold">₦5,000,000</strong> in Paystack credit, and expert mentorship.
+          This grant includes up to <strong class="text-brand-plum font-bold">₦3,000,000</strong> in funding and expert mentorship.
         </p>
         <div class="inline-block bg-brand-sand border border-brand-plum/10 px-6 py-2 rounded-full mb-12">
-          <p class="text-brand-plumDark uppercase text-sm tracking-widest font-bold">Closes May 31, 2025</p>
+          <p class="text-brand-plumDark uppercase text-sm tracking-widest font-bold">Closes March 20, 2026</p>
         </div>
         
         <div>
@@ -102,9 +102,9 @@
               <input type="text" required v-model="form.location">
             </div>
             <div class="form-group">
-              <label>Have a Paystack account? *</label>
+              <label>Have a Busha account? *</label>
               <div class="relative">
-                <select required v-model="form.hasPaystack" class="appearance-none w-full">
+                <select required v-model="form.hasBusha" class="appearance-none w-full">
                   <option value="" disabled>Select option</option>
                   <option value="yes">Yes</option>
                   <option value="no">No</option>
@@ -116,11 +116,11 @@
             </div>
           </div>
           
-          <div v-if="form.hasPaystack === 'yes'" class="animate-fade-in-up bg-brand-sand/50 p-8 rounded-[1.5rem] border border-brand-plum/10 mt-6">
+          <div v-if="form.hasBusha === 'yes'" class="animate-fade-in-up bg-brand-sand/50 p-8 rounded-[1.5rem] border border-brand-plum/10 mt-6">
             <div class="form-group mb-0">
-              <label>Paystack Merchant ID (Business ID) *</label>
-              <p class="text-xs text-brand-plumLight mb-3">Found on your Dashboard, just below your business name top left.</p>
-              <input type="text" required v-model="form.paystackId" class="bg-white">
+              <label>Busha Business ID *</label>
+              <p class="text-xs text-brand-plumLight mb-3">Your unique Busha business identifier.</p>
+              <input type="text" required v-model="form.bushaId" class="bg-white">
             </div>
           </div>
 
@@ -245,7 +245,7 @@
         </div>
         <h2 class="text-5xl font-black text-brand-black mb-6">Application Submitted!</h2>
         <p class="text-xl text-gray-500 mb-12 max-w-xl mx-auto leading-relaxed font-light">
-          Thank you for applying to the Beauty Hut x Paystack Grant. We can't wait to learn more about your brilliant brand!
+          Thank you for applying to the Beauty Hut Women's Grant powered by Busha. We can't wait to learn more about your brilliant brand!
         </p>
         <button @click="resetForm" class="btn-secondary inline-block">
           Return to Home
@@ -272,8 +272,8 @@ const form = reactive({
   linkedin: '',
   tiktok: '',
   location: '',
-  hasPaystack: '',
-  paystackId: '',
+  hasBusha: '',
+  bushaId: '',
   offerings: '',
   inspiration: '',
   targetAudience: '',

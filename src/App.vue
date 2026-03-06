@@ -15,6 +15,7 @@
     <main class="relative z-10" v-else>
       <HeroSection @scroll-to-apply="scrollToApply" />
       <AboutSection />
+      <PrizeSection />
       <EligibilityTimeline />
       <InvestCallToAction />
       <ApplicationForm />
@@ -23,8 +24,12 @@
     <footer class="bg-brand-black text-[#FCF0F1] py-16 px-6 relative z-10 overflow-hidden">
       <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/stardust.png')] opacity-10"></div>
       <div class="max-w-7xl mx-auto flex flex-col items-center justify-center text-center relative z-10">
-        <img src="/logo.png" alt="Beauty Hut Logo" class="h-12 w-auto mb-6" />
-        <p class="text-lg font-light tracking-wide">&copy; 2026 The Beauty Hut x Paystack.</p>
+        <div class="flex items-center gap-6 mb-8">
+          <img src="/logo.png" alt="Beauty Hut Logo" class="h-10 w-auto" />
+          <div class="h-6 w-[1px] bg-white/20"></div>
+          <img src="/busha_logo_white.png" alt="Busha Logo" class="h-8 w-auto" />
+        </div>
+        <p class="text-lg font-light tracking-wide">&copy; 2026 Beauty Hut Women’s Grant powered by Busha.</p>
         <p class="text-sm text-gray-400 mt-2">Empowering female founders across Nigeria.</p>
       </div>
     </footer>
@@ -35,6 +40,7 @@
 import { ref, onMounted, onUnmounted } from 'vue'
 import HeroSection from './components/HeroSection.vue'
 import AboutSection from './components/AboutSection.vue'
+import PrizeSection from './components/PrizeSection.vue'
 import EligibilityTimeline from './components/EligibilityTimeline.vue'
 import InvestCallToAction from './components/InvestCallToAction.vue'
 import ApplicationForm from './components/ApplicationForm.vue'
