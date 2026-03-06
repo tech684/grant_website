@@ -28,7 +28,7 @@
         <h2 class="text-4xl md:text-6xl font-black text-brand-black mb-6 leading-tight">Welcome to the <br/><span class="text-pink-700">Grant Application</span></h2>
         <p class="text-xl text-gray-500 mb-10 max-w-2xl mx-auto leading-relaxed font-light">
           We’re proud to support ambitious female entrepreneurs across Nigeria. 
-          This grant includes up to <strong class="text-brand-plum font-bold">₦3,000,000</strong> in funding and expert mentorship.
+          This grant includes up to <strong class="text-brand-plum font-bold">₦3,000,000</strong> in funding.
         </p>
         <div class="inline-block bg-brand-sand border border-brand-plum/10 px-6 py-2 rounded-full mb-12">
           <p class="text-brand-plumDark uppercase text-sm tracking-widest font-bold">Closes March 20, 2026</p>

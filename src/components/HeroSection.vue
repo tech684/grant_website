@@ -24,7 +24,7 @@
 
       <!-- Subheadline -->
       <p class="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed font-light animate-fade-in-up" style="animation-delay: 0.3s;">
-        Enter for your chance to win <strong class="text-brand-plum font-semibold">₦3,000,000</strong> to grow your beauty business! As a female-led company, Beauty Hut knows the challenges of scaling.
+        Over <strong class="text-brand-plum font-semibold">₦6,000,000</strong> total in equity-free grants up for grabs to grow your business!
       </p>
 
       <!-- CTA -->

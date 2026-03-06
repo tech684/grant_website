@@ -17,7 +17,7 @@
               <span class="text-xl md:text-2xl font-black">2nd</span>
             </div>
             <h3 class="text-lg md:text-xl font-bold text-gray-600 mb-1 md:mb-2 text-nowrap">Second Place</h3>
-            <p class="text-3xl lg:text-4xl font-black text-brand-black tracking-tight whitespace-nowrap">₦2,000,000</p>
+            <p class="text-2xl md:text-3xl font-black text-brand-black tracking-tight whitespace-nowrap">₦2,000,000</p>
             <p class="text-xs md:text-sm text-gray-400 mt-2 md:mt-4 font-light italic">Equity-free grant funding</p>
           </div>
         </div>
@@ -32,8 +32,7 @@
               <svg class="w-8 h-8 md:w-10 md:h-10" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 21 12 17.77 5.82 21 7 14.14l-5-4.87 6.91-1.01L12 2z"/></svg>
             </div>
             <h3 class="text-xl md:text-2xl font-bold text-brand-black mb-1 md:mb-2 text-nowrap">First Place</h3>
-            <p class="text-4xl lg:text-6xl font-black text-pink-700 tracking-tighter whitespace-nowrap">₦3,000,000</p>
-            <p class="text-sm md:text-md text-brand-plum font-medium mt-3 md:mt-4">Growth Capital + Mentorship</p>
+            <p class="text-3xl md:text-5xl font-black text-pink-700 tracking-tighter whitespace-nowrap">₦3,000,000</p>
           </div>
         </div>
 
@@ -44,7 +43,7 @@
               <span class="text-xl md:text-2xl font-black">3rd</span>
             </div>
             <h3 class="text-lg md:text-xl font-bold text-gray-600 mb-1 md:mb-2 text-nowrap">Third Place</h3>
-            <p class="text-3xl lg:text-4xl font-black text-brand-black tracking-tight whitespace-nowrap">₦1,000,000</p>
+            <p class="text-2xl md:text-3xl font-black text-brand-black tracking-tight whitespace-nowrap">₦1,000,000</p>
             <p class="text-xs md:text-sm text-gray-400 mt-2 md:mt-4 font-light italic">Equity-free grant funding</p>
           </div>
         </div>

@@ -55,15 +55,13 @@ const requirements = [
   "Must be a legally registered business (sole proprietorship, partnership, LLC, etc.) or demonstrate a clear path to registration.",
   "Business must be registered or operating in Nigeria.",
   "The business should have been operational for at least 6 months by the application deadline.",
-  "Applicants must have a clear plan for how they will use the grant funds.",
-  "Applicants should not currently be receiving major conflicting funding grants covering the same use of funds."
+  "Applicants must have a clear plan for how they will use the grant funds."
 ];
 
 const timeline = [
   { date: "Sun 8th March, 2026", title: "Applications Open" },
-  { date: "Fri 20th March, 2026", title: "Application Closed" },
+  { date: "Fri 20th March, 2026", title: "Applications Close" },
   { date: "Wednesday 25th March, 2026", title: "Shortlist Announced" },
-  { date: "Saturday 4th April, 2026", title: "IWD 2026 Live Event + Finale" },
-  { date: "w/c 12th April, 2026", title: "Post-Event Spotlight & Media Coverage" },
+  { date: "Saturday 4th April, 2026", title: "Live Pitch Event & Finale" },
 ];
 </script>
