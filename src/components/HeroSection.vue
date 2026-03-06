@@ -1,9 +1,9 @@
 <template>
   <section class="relative min-h-screen pt-40 pb-32 px-6 lg:px-12 bg-[#FFDBDE] overflow-hidden flex flex-col justify-center items-center text-center isolate">
     <div class="absolute top-6 left-6 md:top-10 md:left-12 z-20 flex items-center gap-4">
-      <img src="/logo.png" alt="Beauty Hut Logo" class="h-10 md:h-12 w-auto hover:scale-105 transition-transform" />
-      <div class="h-8 w-[1px] bg-black/20"></div>
-      <img src="/busha_logo.png" alt="Busha Logo" class="h-8 md:h-10 w-auto hover:scale-105 transition-transform" />
+      <img src="/logo.png" alt="Beauty Hut Logo" class="h-14 md:h-24 w-auto hover:scale-105 transition-transform" />
+      <div class="h-8 md:h-12 w-[1px] bg-black/10"></div>
+      <img src="/busha_logo.png" alt="Busha Logo" class="h-4 md:h-6 w-auto hover:scale-105 transition-transform opacity-90" />
     </div>
 
     <div class="relative z-10 max-w-5xl mx-auto space-y-10">

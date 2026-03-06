@@ -17,7 +17,6 @@
       <AboutSection />
       <PrizeSection />
       <EligibilityTimeline />
-      <InvestCallToAction />
       <ApplicationForm />
     </main>
     
@@ -25,9 +24,9 @@
       <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/stardust.png')] opacity-10"></div>
       <div class="max-w-7xl mx-auto flex flex-col items-center justify-center text-center relative z-10">
         <div class="flex items-center gap-6 mb-8">
-          <img src="/logo.png" alt="Beauty Hut Logo" class="h-10 w-auto" />
+          <img src="/logo.png" alt="Beauty Hut Logo" class="h-12 md:h-16 w-auto" />
           <div class="h-6 w-[1px] bg-white/20"></div>
-          <img src="/busha_logo_white.png" alt="Busha Logo" class="h-8 w-auto" />
+          <img src="/busha_logo_white.png" alt="Busha Logo" class="h-4 md:h-5 w-auto opacity-80" />
         </div>
         <p class="text-lg font-light tracking-wide">&copy; 2026 Beauty Hut Women’s Grant powered by Busha.</p>
         <p class="text-sm text-gray-400 mt-2">Empowering female founders across Nigeria.</p>
@@ -42,7 +41,6 @@ import HeroSection from './components/HeroSection.vue'
 import AboutSection from './components/AboutSection.vue'
 import PrizeSection from './components/PrizeSection.vue'
 import EligibilityTimeline from './components/EligibilityTimeline.vue'
-import InvestCallToAction from './components/InvestCallToAction.vue'
 import ApplicationForm from './components/ApplicationForm.vue'
 import ContactPage from './components/ContactPage.vue'
 
