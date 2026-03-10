@@ -29,7 +29,7 @@
           </a>
           <div class="h-6 w-[1px] bg-white/20"></div>
           <a href="https://busha.io/" target="_blank" rel="noopener noreferrer" class="hover:scale-105 transition-transform">
-            <img src="/busha_logo_white.png" alt="Busha Logo" class="h-5 md:h-7 w-auto opacity-80" />
+            <img src="/busha_logo_white.png" alt="Busha Logo" class="h-4 md:h-5 w-auto opacity-80" />
           </a>
         </div>
         <p class="text-lg font-light tracking-wide">&copy; 2026 Beauty Hut Women’s Grant powered by Busha.</p>

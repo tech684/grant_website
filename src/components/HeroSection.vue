@@ -6,7 +6,7 @@
       </a>
       <div class="h-8 md:h-12 w-[1px] bg-black/10"></div>
       <a href="https://busha.io/" target="_blank" rel="noopener noreferrer" class="hover:scale-105 transition-transform">
-        <img src="/busha_logo.png" alt="Busha Logo" class="h-5 md:h-8 w-auto opacity-90" />
+        <img src="/busha_logo.png" alt="Busha Logo" class="h-4 md:h-6 w-auto opacity-90" />
       </a>
     </div>
 
@@ -28,7 +28,7 @@
 
       <!-- Subheadline -->
       <p class="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed font-light animate-fade-in-up" style="animation-delay: 0.3s;">
-        Over <strong class="text-brand-plum font-semibold">₦6,000,000</strong> total in equity-free grants up for grabs to grow your business!
+        <strong class="text-brand-plum font-semibold">₦6,000,000</strong> total in equity-free grants up for grabs to grow your business!
       </p>
 
       <!-- CTA -->
