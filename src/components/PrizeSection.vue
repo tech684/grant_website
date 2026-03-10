@@ -18,7 +18,6 @@
             </div>
             <h3 class="text-lg md:text-xl font-bold text-gray-600 mb-1 md:mb-2 text-nowrap">Second Place</h3>
             <p class="text-2xl md:text-3xl font-black text-brand-black tracking-tight whitespace-nowrap">₦2,000,000</p>
-            <p class="text-xs md:text-sm text-gray-400 mt-2 md:mt-4 font-light italic">Equity-free grant funding</p>
           </div>
         </div>
 
@@ -44,7 +43,6 @@
             </div>
             <h3 class="text-lg md:text-xl font-bold text-gray-600 mb-1 md:mb-2 text-nowrap">Third Place</h3>
             <p class="text-2xl md:text-3xl font-black text-brand-black tracking-tight whitespace-nowrap">₦1,000,000</p>
-            <p class="text-xs md:text-sm text-gray-400 mt-2 md:mt-4 font-light italic">Equity-free grant funding</p>
           </div>
         </div>
       </div>

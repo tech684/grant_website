@@ -1,9 +1,13 @@
 <template>
   <section class="relative min-h-screen pt-40 pb-32 px-6 lg:px-12 bg-[#FFDBDE] overflow-hidden flex flex-col justify-center items-center text-center isolate">
     <div class="absolute top-6 left-6 md:top-10 md:left-12 z-20 flex items-center gap-4">
-      <img src="/logo.png" alt="Beauty Hut Logo" class="h-14 md:h-24 w-auto hover:scale-105 transition-transform" />
+      <a href="https://beautyhutafrica.com" target="_blank" rel="noopener noreferrer" class="hover:scale-105 transition-transform">
+        <img src="/logo.png" alt="Beauty Hut Logo" class="h-8 md:h-12 w-auto" />
+      </a>
       <div class="h-8 md:h-12 w-[1px] bg-black/10"></div>
-      <img src="/busha_logo.png" alt="Busha Logo" class="h-4 md:h-6 w-auto hover:scale-105 transition-transform opacity-90" />
+      <a href="https://busha.io/" target="_blank" rel="noopener noreferrer" class="hover:scale-105 transition-transform">
+        <img src="/busha_logo.png" alt="Busha Logo" class="h-5 md:h-8 w-auto opacity-90" />
+      </a>
     </div>
 
     <div class="relative z-10 max-w-5xl mx-auto space-y-10">
@@ -29,7 +33,7 @@
 
       <!-- CTA -->
       <div class="pt-8 animate-fade-in-up" style="animation-delay: 0.4s;">
-        <a href="https://docs.google.com/forms/d/1dh8EXanFdyuas8tiOhDYuS43GMndSkfAunDyoZlBHIc/edit?ts=699dae6e" target="_blank" rel="noopener noreferrer" class="group bg-pink-700 relative inline-flex items-center justify-center text-white px-12 py-5 rounded-full text-xl font-bold overflow-hidden transition-all">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcIBF_PYPTE3WS3neU2o6VKKATJUG0ZOYkmGi-ND1hnjmOFA/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer" class="group bg-pink-700 relative inline-flex items-center justify-center text-white px-12 py-5 rounded-full text-xl font-bold overflow-hidden transition-all">
           <span class="absolute inset-0 w-full h-full bg-pink opacity-0 group-hover:opacity-100 transition-opacity duration-500"></span>
           <span class="relative flex items-center gap-3">
             Apply Now

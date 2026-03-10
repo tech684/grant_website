@@ -31,11 +31,11 @@
           This grant includes up to <strong class="text-brand-plum font-bold">₦3,000,000</strong> in funding.
         </p>
         <div class="inline-block bg-brand-sand border border-brand-plum/10 px-6 py-2 rounded-full mb-12">
-          <p class="text-brand-plumDark uppercase text-sm tracking-widest font-bold">Closes March 20, 2026</p>
+          <p class="text-brand-plumDark uppercase text-sm tracking-widest font-bold">Closes March 26, 2026</p>
         </div>
         
         <div>
-          <a href="https://docs.google.com/forms/d/1dh8EXanFdyuas8tiOhDYuS43GMndSkfAunDyoZlBHIc/edit?ts=699dae6e" target="_blank" rel="noopener noreferrer" class="inline-block bg-pink-700 text-white px-12 py-5 rounded-full text-xl font-bold hover:shadow-[0_20px_40px_-10px_rgba(216,27,96,0.5)] transition-all duration-300 w-full md:w-auto hover:-translate-y-1">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcIBF_PYPTE3WS3neU2o6VKKATJUG0ZOYkmGi-ND1hnjmOFA/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer" class="inline-block bg-pink-700 text-white px-12 py-5 rounded-full text-xl font-bold hover:shadow-[0_20px_40px_-10px_rgba(216,27,96,0.5)] transition-all duration-300 w-full md:w-auto hover:-translate-y-1">
             Start Application
           </a>
         </div>

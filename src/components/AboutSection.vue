@@ -6,7 +6,7 @@
       <div class="text-center mb-20 animate-fade-in-up">
         <h2 class="text-4xl md:text-6xl font-black text-brand-black mb-6">About the <span class="text-pink-700">Grant</span></h2>
         <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed font-light">
-          With a total grant pool of <strong class="text-brand-plum font-semibold">₦6,000,000</strong>, We are proud to support ambitious female entrepreneurs across Nigeria. The first prize winner will receive  <strong class="text-brand-plum font-semibold">₦3,000,000</strong>, in funding to support and grow their business.
+          With a total grant pool of <strong class="text-brand-plum font-semibold">₦6,000,000</strong>, we are proud to support ambitious female entrepreneurs across Nigeria. The first prize winner will receive  <strong class="text-brand-plum font-semibold">₦3,000,000</strong>, in funding to support and grow their business.
         </p>
       </div>
 
