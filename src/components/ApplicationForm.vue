@@ -31,7 +31,7 @@
           This grant includes up to <strong class="text-brand-plum font-bold">₦3,000,000</strong> in funding.
         </p>
         <div class="inline-block bg-brand-sand border border-brand-plum/10 px-6 py-2 rounded-full mb-12">
-          <p class="text-brand-plumDark uppercase text-sm tracking-widest font-bold">Closes March 26, 2026</p>
+          <p class="text-brand-plumDark uppercase text-sm tracking-widest font-bold">Closes March 31, 2026</p>
         </div>
         
         <div>
