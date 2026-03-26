@@ -60,8 +60,8 @@ const requirements = [
 
 const timeline = [
   { date: "Wed 11th March, 2026", title: "Applications Open" },
-  { date: "Tue 31st March, 2026", title: "Applications Close" },
-  { date: "Tue 31st March, 2026", title: "Shortlist Announcement" },
+  { date: "Sun 5th April, 2026", title: "Applications Close" },
+  { date: "Sun 5th April, 2026", title: "Shortlist Announcement" },
   { date: "Sat 11th April, 2026", title: "Live Pitch Event & Finale" },
 ];
 </script>
